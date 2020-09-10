@@ -1,6 +1,6 @@
 # Mongoose
 
-This project is a basis Node.js Mongoose API server connecting to MongoDB hosted in Atlas.
+This project is a basic Node.js Mongoose API server connecting to MongoDB hosted in Atlas.
 
 ## Development server
 
